@@ -1,5 +1,8 @@
 # 🛒 Fullstack Shopping Cart
 
+Backend: https://shopping-cart-production-a534.up.railway.app/
+Frontend: https://shopping-cart-aw0d0lapa-uday-nigams-projects.vercel.app/
+
 A complete e-commerce shopping cart application built with Go (Gin) backend and React frontend, featuring user authentication, product management, cart operations, and order processing.
 
 ## 📖 Overview
